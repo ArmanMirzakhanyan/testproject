@@ -15,5 +15,8 @@
     <div class="block2">
         <p>Eaque nemo neque praesentium quibusdam quis!</p>
     </div>
+    <div class="block3">
+        <p>Eaque nemo neque praesentium quibusdam quis!</p>
+    </div>
 </body>
 </html>
